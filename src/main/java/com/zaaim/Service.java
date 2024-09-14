@@ -1,4 +1,5 @@
 package com.zaaim;
 
-public class Service {
+public interface Service {
+    void serve();
 }
